@@ -1,10 +1,3 @@
-¡Claro que sí! He adaptado el contenido para que sea un **README.md** profesional de GitHub. He dejado los espacios de las interfaces en blanco o con etiquetas genéricas `[INTERFAZ]` para que tú mismo rellenes las que hayas usado (por ejemplo: `GigabitEthernet0/0` o `FastEthernet0/1`).
-
-Aquí tienes el código Markdown listo para copiar y pegar:
-
----
-
-```markdown
 # 🚀 Implementación de DHCP Relay en Redes Empresariales Multi-Segmento
 
 Este proyecto recrea un escenario real de conectividad corporativa utilizando **Cisco Packet Tracer**. El objetivo es demostrar cómo un servidor DHCP centralizado puede asignar direcciones IP a diferentes departamentos (Ventas e IT) que se encuentran en subredes distintas, utilizando la función **DHCP Relay (IP Helper-Address)**.
@@ -104,18 +97,5 @@ Para comprobar que la configuración es correcta, ejecuta en la consola de los P
 * `ipconfig /renew`: Para solicitar una IP al servidor.
 * `ping 192.168.100.10`: Para asegurar conectividad con el Data Center.
 
----
 
-⚡ *Proyecto creado para fines educativos bajo estándares de certificación CCNA.*
 
-```
-
----
-
-### 💡 Un último consejo para tu GitHub:
-Si quieres que el repositorio se vea increíble, saca una **captura de pantalla (Screenshot)** a tu topología en Packet Tracer, súbela a la carpeta del repositorio y cambia la línea de `[Image of...]` por:
-`![Topología de Red](nombre_de_tu_foto.png)`
-
-¿Hay alguna otra parte técnica o explicación que quieras profundizar antes de publicarlo?
-
-```
